@@ -2,9 +2,7 @@
 
 > Multimodal deep learning system for coral bleaching detection combining underwater digital image processing, a fine-tuned NOAA marine science classifier, XGBoost environmental modeling, and Groq LLM explanations.
 
-# Demo Video
 
-[Click Here](https://www.loom.com/share/a26b1ef8fb954787a4dadb9dc3e67b7d)
 
 ---
 
