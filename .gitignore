@@ -1,4 +1,3 @@
-\venv
 dataset/
 .env
 data/
@@ -13,3 +12,4 @@ tabular_data
 *.pkl
 *.pt
 models1/.venv/
+.venv/
